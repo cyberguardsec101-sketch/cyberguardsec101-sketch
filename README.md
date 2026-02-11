@@ -15,7 +15,7 @@
 
 ```bash
 root@kali:~# whoami
-DrkCyberSec101
+DrkShdw47
 
 root@kali:~# role
 Offensive Security Operator | Bug Bounty Hunter
@@ -33,7 +33,7 @@ OPSEC: ON  |  Target: IN-SCOPE  |  Reports: ACTIONABLE
 
 ```json
 {
-  "alias": "DrkCyberSec101",
+  "alias": "DrkShdw47",
   "domain": "Offensive Security",
   "specialty": ["Web Exploitation", "Access Control", "Recon Automation", "Vuln Research"],
   "mindset": ["Red Team", "Bug Bounty", "Threat Modeling"],
