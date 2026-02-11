@@ -1,6 +1,6 @@
 <!-- DARK TERMINAL HEADER (RED) -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2400&pause=650&color=FF0033&center=true&vCenter=true&width=980&lines=root%40kali%3A~%23+whoami;DrkCyberSec101;Offensive+Security+Operator;Bug+Bounty+Hunter;Recon+%7C+Exploit+%7C+Report;Red+Team+Mindset+%E2%80%A2+Impact+Driven" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2400&pause=650&color=FF0033&center=true&vCenter=true&width=980&lines=root%40kali%3A~%23+whoami;DrkShdw47;Offensive+Security+Operator;Bug+Bounty+Hunter;Recon+%7C+Exploit+%7C+Report;Red+Team+Mindset+%E2%80%A2+Impact+Driven" />
 </p>
 
 <p align="center">
